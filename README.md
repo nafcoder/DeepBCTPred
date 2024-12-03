@@ -32,7 +32,7 @@ scikit-image==0.24.0
 ```
 
 ### Reproduce results
-1.  Reproducable codes are given. Training, validation and testing scripts are also provided in [Training](Training), [Validation](Validation) and [Testing](Testing) folders respectively.
+1.  Reproducable codes are given. Training, validation and testing scripts are also provided in [Training](Training), [Validation](Validation) and [Testing](Testing) folders respectively. See the examples with 'sample_1.png', 'sample_2.png', 'sample_3.png' and 'sample_4.png'.
 2.  Additional files that were not given due to the size, are provided in [Google drive](https://drive.google.com/drive/folders/12rSChKSW_HkcQr_-KCXtE42zXRMRMaz0?usp=sharing)
 
 ### Prediction
