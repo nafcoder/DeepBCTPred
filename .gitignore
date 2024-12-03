@@ -5,6 +5,7 @@ prev_paper/baldder_tissue_classification
 Testing/baldder_tissue_classification
 Training/baldder_tissue_classification
 Validation/baldder_tissue_classification
+Dataset/baldder_tissue_classification
 prev_paper/Models/17DCNN_test.pth
 prev_paper/Models/AlexNet_test.pth
 prev_paper/Models/vit.pth
