@@ -1,0 +1,10 @@
+Data_Augmentation_Scoring_Model_Selection/baldder_tissue_classification
+Feature_Selection/baldder_tissue_classification
+Plots/baldder_tissue_classification
+prev_paper/baldder_tissue_classification
+Testing/baldder_tissue_classification
+Training/baldder_tissue_classification
+Validation/baldder_tissue_classification
+prev_paper/Models/17DCNN_test.pth
+prev_paper/Models/AlexNet_test.pth
+prev_paper/Models/vit.pth
