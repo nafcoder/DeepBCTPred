@@ -5,7 +5,7 @@
 
 
 ### Data availability
-All training and independent datasets are given in [Bladder Cancer](https://drive.google.com/drive/folders/1Tm3ItdAmjxwEAZNo-CIrujjmXdqGsG4S?usp=sharing)
+All training and independent datasets are given in [Dataset](Dataset) folder and [Bladder Cancer](https://drive.google.com/drive/folders/1Tm3ItdAmjxwEAZNo-CIrujjmXdqGsG4S?usp=sharing)
 
 ### Environments
 OS: Pop!_OS 22.04 LTS
