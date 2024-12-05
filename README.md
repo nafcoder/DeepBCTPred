@@ -1,7 +1,8 @@
 # DeepBCTPred
 
 ### Framework of bladder cancer tissue prediction
-![DeepBCTPred-1](https://github.com/user-attachments/assets/10380faa-5d0d-4174-a522-e116d57c38f1)
+![DeepBCTPred_page-0001](https://github.com/user-attachments/assets/deffa28b-5dfc-47d1-87e4-ae15dc101efd)
+
 
 
 ### Data availability
