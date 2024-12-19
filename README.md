@@ -37,10 +37,10 @@ scikit-image==0.24.0
 2.  Additional files that were not given due to the size, are provided in [Google drive](https://drive.google.com/drive/folders/12rSChKSW_HkcQr_-KCXtE42zXRMRMaz0?usp=sharing)
 
 ### Prediction
-Firsly, you need to add the image file in [Prediction](Prediction) folder. Then, run the [predict.py](predict.py) file.
+Firsly, you need to add the image file in [Prediction](Prediction) folder. Then, run the [predict.py](Prediction/predict.py) file.
 
 ### Heatmap
-Firsly, you need to add the image file in [Heatmap](Heatmap) folder. Then, run the [main.py](main.py) file.
+Firsly, you need to add the image file in [Heatmap](Heatmap) folder. Then, run the [main.py](Heatmap/main.py) file.
 
 ### Reproduce previous paper metrics
 In [prev_paper](prev_paper), scripts are provided for reproducing the results of the previous papers.
