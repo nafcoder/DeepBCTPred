@@ -39,5 +39,8 @@ scikit-image==0.24.0
 ### Prediction
 Firsly, you need to add the image file in [Prediction](Prediction) folder. Then, run the [predict.py](predict.py) file.
 
+### Heatmap
+Firsly, you need to add the image file in [Heatmap](Heatmap) folder. Then, run the [main.py](main.py) file.
+
 ### Reproduce previous paper metrics
 In [prev_paper](prev_paper), scripts are provided for reproducing the results of the previous papers.
